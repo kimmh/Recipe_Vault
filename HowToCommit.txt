@@ -1,1 +1,8 @@
-
+Type:
+git init
+git clone git@github.com:jeremyreed/Recipe_Vault
+cd Recipe_Vault
+git remote add origin git@github.com:jeremyreed/Recipe_Vault.git
+<ADD/EDIT FILES HERE>
+git commit -m "<commit message>"
+git push
